@@ -1,0 +1,38 @@
+#article{
+    
+    text-align: left;
+}
+#noline{
+    text-decoration: none;
+    color: #66CCFF;
+  }
+  #back{
+      text-decoration: none;
+      
+      
+  }
+  #newyear{
+      text-decoration: none;
+      text-align: center;
+      color: black;
+      padding-right: 300px;
+      font-size: 5vw;
+      
+      
+  }
+#title{
+    padding-right: 30px;
+    
+}
+    
+#main{
+    padding-right: 10px;
+    padding-left: 10px;
+    
+}    
+
+#foot{
+    
+    text-align: center;
+}
+
