@@ -1,0 +1,56 @@
+body{
+    background-color: #white;
+}
+
+#name{
+    text-align: center;
+    text-decoration: none;
+    background-color: ;
+
+}
+#noline{
+    text-decoration: none;
+    color: #66CCFF;
+    
+}
+
+
+#nav{
+    color: #66CCFF;
+    text-align: center;
+    text-decoration: none;
+    background-color: ;
+    
+}
+
+#facebook{
+    padding: 10px;
+    text-decoration: none;
+    
+}
+
+#insta{
+    padding: 10px;
+    text-decoration: none;
+}
+
+#tiktok{
+    
+    padding: 10px;
+    text-decoration: none;
+}
+#mail{
+    
+    padding: 10px;
+    text-decoration: none;
+}
+
+#info{
+    padding: 10px;
+    color: black;
+}
+
+#foot{
+    
+    text-align: center;
+}
